@@ -66,6 +66,7 @@ assign diff=A^B^Bin;
 assign Borrow=(~A&B)|(~(A^B))&Bin;
 endmodule
 ```
+
 RTL DIAGRAM:
 
 Half subtracter:
