@@ -65,20 +65,16 @@ output diff,Borrow;
 assign diff=A^B^Bin;
 assign Borrow=(~A&B)|(~(A^B))&Bin;
 endmodule
-
+```
 
 RTL DIAGRAM:
-
 Half subtracter:
 ![266497488-1405b5b6-d889-4747-be8a-e636fc78e6b9](https://github.com/Yuva2005raj/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343998/53ee2a7b-e24d-405a-859d-8abc8a1ba29a)
-
 
 Full subtracter:
 ![266497557-53f2d536-129c-4e7d-9a78-02338826337a](https://github.com/Yuva2005raj/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343998/7bf8b66e-913e-4740-a80c-eb78d08837a6)
 
-
 Waveform:
-
 HALF SUBTRACTER:
 ![266497889-a2e82798-fb8b-4c9b-8afd-80868d75742f](https://github.com/Yuva2005raj/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343998/c814cd86-1427-485d-ab4f-4fb74b566e22)
 
@@ -86,15 +82,12 @@ FULL SUBTRACTER:
 ![266497980-8b8780e8-8821-44e8-bcb6-0f4e6f705981](https://github.com/Yuva2005raj/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343998/92ae70c7-7c6a-4922-9fe6-24ed53e46f1d)
 
 
-## Truthtable
-
+Truthtable:
 HALF SUBTRACTER:
 ![266497669-8417db91-3f21-4678-8304-8fffa9b37486](https://github.com/Yuva2005raj/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343998/03e76888-4a95-4e86-91ef-f643b4e787f9)
 
-
 FULL SUBTRACTER:
 ![266497753-263a6edf-9b46-41e0-a827-e78a5975d9b8](https://github.com/Yuva2005raj/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343998/8c58f916-1fef-49ac-9cd8-0572d1d4dff7)
-
 
 RESULT:
 
