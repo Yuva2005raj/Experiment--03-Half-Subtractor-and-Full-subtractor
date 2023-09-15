@@ -70,31 +70,31 @@ endmodule
 RTL DIAGRAM:
 
 Half subtracter:
+![266497488-1405b5b6-d889-4747-be8a-e636fc78e6b9](https://github.com/Yuva2005raj/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343998/53ee2a7b-e24d-405a-859d-8abc8a1ba29a)
 
-![266495897-94f0de39-977d-458f-9942-f6ced47c3fde](https://github.com/Yuva2005raj/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343998/f521f686-da7a-4677-94f0-1f2f39a2fe06)
 
 Full subtracter:
+![266497557-53f2d536-129c-4e7d-9a78-02338826337a](https://github.com/Yuva2005raj/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343998/7bf8b66e-913e-4740-a80c-eb78d08837a6)
 
-![266495938-a934b87e-c590-4abf-9375-5890b6b73f87](https://github.com/Yuva2005raj/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343998/ac3be682-0162-466e-8dd6-e2ad42a495ee)
 
 Waveform:
 
 HALF SUBTRACTER:
-
-![266496048-fba3c7ad-df50-47d3-963f-466d22e7ae10](https://github.com/Yuva2005raj/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343998/3d4d7c80-e763-4c74-99f0-1482fea45177)
+![266497889-a2e82798-fb8b-4c9b-8afd-80868d75742f](https://github.com/Yuva2005raj/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343998/c814cd86-1427-485d-ab4f-4fb74b566e22)
 
 FULL SUBTRACTER:
+![266497980-8b8780e8-8821-44e8-bcb6-0f4e6f705981](https://github.com/Yuva2005raj/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343998/92ae70c7-7c6a-4922-9fe6-24ed53e46f1d)
 
-![266496091-9284c59d-31a5-4fd9-81b6-9d2e36aa5088](https://github.com/Yuva2005raj/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343998/86018b84-a3c1-4b8d-8c1a-aa45e87d9e0b)
 
 ## Truthtable
 
 HALF SUBTRACTER:
-![266497592-45393802-6f3b-4862-8527-32ac7e089236](https://github.com/Yuva2005raj/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343998/c1d8a6fe-65dd-42ec-88e2-f62a1c888e7c)
+![266497669-8417db91-3f21-4678-8304-8fffa9b37486](https://github.com/Yuva2005raj/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343998/03e76888-4a95-4e86-91ef-f643b4e787f9)
+
 
 FULL SUBTRACTER:
+![266497753-263a6edf-9b46-41e0-a827-e78a5975d9b8](https://github.com/Yuva2005raj/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343998/8c58f916-1fef-49ac-9cd8-0572d1d4dff7)
 
-![266496839-97c26b6f-9aa5-418e-ba5c-13dee3f02ad9](https://github.com/Yuva2005raj/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343998/5c6f568d-687b-4f29-8172-c22ac468d5b3)
 
 RESULT:
 
