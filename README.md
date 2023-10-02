@@ -72,7 +72,7 @@ endmodule
 
 # RTL DIAGRAM:
 
-Half subtracter:
+# Half subtracter:
 
 ![266497843-95fadd91-9046-4282-85cc-ecc973b65c24](https://github.com/Yuva2005raj/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343998/24197580-b9cf-4930-a89b-881c0dd7e898)
 
